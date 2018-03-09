@@ -29,7 +29,8 @@
     <!--<plugin name="cordova-plugin-wkwebview-engine" spec="~1.0.1" />-->
 
     <platform name="android">
-
+		<icon src="res/893.png" density="xxxhdpi" />
+        <splash src="res/893.png" density="land-ldpi" />
     </platform>
 
 
